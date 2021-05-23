@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Vibe Animation Rules
 
-You can use the [editor on GitHub](https://github.com/Plebcy/plebcy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Vibe: Animations! Below are some simple rules you should follow in game. If fail to comply with them, action will be taken against your account.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. To report players or bugs, use #reports. Please read all of our rules before submitting a report.
 
 ```markdown
-Syntax highlighted code block
+Rules
 
-# Header 1
-## Header 2
-### Header 3
+1. To report players or bugs, use #reports. Please read all of our rules before submitting a report.
+2. To submit a ban appeal, please do not submit that here. We have a dedicated site for that: https://plebcy.com. Make sure you are providing sufficient information regarding your ban to better your chances of getting unbanned.
+3. Do not discriminate anyone against race, gender, sexuality or religion.
+4. Do not use discriminatory language or behavior.
+5. Do not spam messages or tickets. You will be banned if you do so.
+6. Do not talk about or post any NSFW content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.
+7. Please do not ping our moderators and developers. We have a set channel to submit those types of reports.
+8. For any other information go to #rules (in our discord) or visit our support website: https://plebcy.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Plebcy/plebcy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks,
+The Moonlight Team
